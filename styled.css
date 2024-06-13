@@ -1,0 +1,59 @@
+.text-menor {
+  font-size: 13px;
+}
+
+.divs-facilidades {
+  width: 325px;
+}
+
+ .facilities-container {
+      background-color: black;
+      color: white;
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      padding: 20px;
+    }
+    .facility-item {
+      display: flex;
+      align-items: center;
+      text-align: left;
+      color: white;
+      margin-bottom: 30px;
+    }
+    .facility-item i {
+      color: #D4FF00;
+      font-size: 2.5rem;
+    }
+    .facility-item div {
+      margin-left: 15px;
+    }
+    .facility-item .title {
+      font-weight: bold;
+      color: #D4FF00;
+    }
+    .facility-item .description {
+      font-size: 0.9rem;
+    }
+.card-header {
+      background-color: black;
+      color: white;
+    }
+
+ .btn-primary {
+      background-color: #9353FF;
+      border-color: #9353FF;
+    }
+    .btn-primary:hover {
+      background-color: #7a3bcc;
+      border-color: #7a3bcc;
+    }
+
+    footer {
+      background-color: #000;
+      color: #fff;
+      padding: 10px 0;
+    }
+    footer p {
+      margin: 0;
+    }
